@@ -4,7 +4,6 @@ div {
     height: auto;
     padding-left: 10px;
     background-color: cornsilk;
-   
 }
 
 div > text {
@@ -37,5 +36,9 @@ body {
    justify-content: center;
    align-items: center;
    flex-direction: column;
+}
+
+header{
+    font-size: 40px;
 }
 
