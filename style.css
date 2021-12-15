@@ -3,6 +3,7 @@ div {
     width: 750px;
     height: auto;
     padding-left: 10px;
+    background-color: cornsilk;
    
 }
 
@@ -30,3 +31,11 @@ img {
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
+body {
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
+
